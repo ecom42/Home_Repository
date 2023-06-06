@@ -2,4 +2,4 @@
 My first repository
 
 Hi, People
-I found that programming was what my brain like to do..!
+I found that programming is what my brain like to do..!
